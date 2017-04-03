@@ -1,6 +1,6 @@
 {
   "name": "memcache-plus",
-  "version": "0.2.17",
+  "version": "0.2.19-meli",
   "description": "Better memcache for node",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/victorquinn/memcache-plus"
+    "url": "git@github.com:pauloballan/memcache-plus.git"
   },
   "keywords": [
     "memcache",
@@ -21,9 +21,9 @@
   "author": "Victor Quinn <mail@victorquinn.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/victorquinn/memcache-plus/issues"
+    "url": "https://github.com/pauloballan/memcache-plus"
   },
-  "homepage": "https://github.com/victorquinn/memcache-plus",
+  "homepage": "https://github.com/pauloballan/memcache-plus",
   "devDependencies": {
     "chance": "^1.0.4",
     "docpress": "0.6.12",
